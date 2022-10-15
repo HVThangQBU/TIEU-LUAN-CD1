@@ -1,0 +1,6 @@
+5 13
+but 3 4
+thuoc 4 5
+maytinh 5 6
+dao 2 1
+keo 1 1
